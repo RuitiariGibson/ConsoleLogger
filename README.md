@@ -1,11 +1,8 @@
 
 
 <p align="center">
-<a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"/></a>
-   <a>
-    <img src="https://github.com/RuitiariGibson/ConsoleLogger/blob/master/log.png"/>
-    alt="Times " width=250 height=250>
-      <a/>
+<a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"/></a><br>
+   <a><img src="https://github.com/RuitiariGibson/ConsoleLogger/blob/master/log.png"/><a/>
 
   <h3 align="center">Console Logger</h3>
 
